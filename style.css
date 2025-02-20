@@ -538,8 +538,17 @@
   transform: scaleX(1);
 }
  
-.Títulodoselo {
-  font-size: 40px;
+.Textodocorpo {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.Textodoselo {
+  font-size: 20px;
   font-style: normal;
   font-family: Inter;
   font-weight: 700px;
@@ -556,24 +565,6 @@
   letter-spacing: 0em;
 }
  
-.Slogandoselo {
-  font-size: 24px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 400px;
-  font-stretch: normal;
-  letter-spacing: 0em;
-}
- 
-.Textodoselo {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 700px;
-  font-stretch: normal;
-  letter-spacing: 0em;
-}
- 
 .Content {
   font-size: 16px;
   font-family: Inter;
@@ -583,8 +574,17 @@
   text-decoration: none;
 }
  
-.Textodocorpo {
-  font-size: 16px;
+.DescriçãoSlogan {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.Títulodoselo {
+  font-size: 40px;
   font-style: normal;
   font-family: Inter;
   font-weight: 700px;
@@ -592,8 +592,8 @@
   letter-spacing: 0em;
 }
  
-.DescriçãoSlogan {
-  font-size: 18px;
+.Slogandoselo {
+  font-size: 24px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
